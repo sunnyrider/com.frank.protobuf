@@ -3,6 +3,17 @@
 
 package com.frank.proto.pspro;
 
+/**
+ * Configuration for Prestack-Pro
+ * 
+ * written after the C++ Original from Prestack Pro
+ * TEST:
+ * 		Read that comment after commit in zhe deployed build
+ * 		initialized from Jenkins
+ * 
+ * @author Frank
+ *
+ */
 public final class ConfigPrestackPro {
   private ConfigPrestackPro() {}
   public static void registerAllExtensions(
