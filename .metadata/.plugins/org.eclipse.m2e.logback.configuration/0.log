@@ -1,0 +1,112 @@
+2017-12-27 16:14:28,052 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-27 19:52:27,806 [Worker-28] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\dev_frank\com.frank.proto.tutorial\pom.xml: input contained no data @ 
+ for project  at C:\dev_frank\com.frank.proto.tutorial\pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\dev_frank\com.frank.proto.tutorial\pom.xml: input contained no data @ 
+ for project  at C:\dev_frank\com.frank.proto.tutorial\pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192) ~[org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742) [org.eclipse.m2e.editor_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.8.2.20171007-0217.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.2.v20171030-1027.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\dev_frank\com.frank.proto.tutorial\pom.xml: input contained no data @ 
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:598) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:273) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.9.jar:3.3.9]
+	... 15 common frames omitted
+2017-12-27 20:05:04,018 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2017-12-27 20:05:04,021 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2017-12-28 09:55:41,306 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2017-12-28 09:55:41,307 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2017-12-28 11:20:51,991 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2017-12-28 11:20:51,992 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2017-12-28 21:15:42,076 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-29 00:17:19,748 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @10967455ms to org.eclipse.jetty.util.log.Slf4jLog
+2017-12-29 00:17:20,053 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.7.v20170914
+2017-12-29 00:17:20,111 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2017-12-29 00:17:20,111 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2017-12-29 00:17:20,115 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2017-12-29 00:17:20,179 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3cbc45f5{/help,null,AVAILABLE}
+2017-12-29 00:17:20,226 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@38a350b{HTTP/1.1,[http/1.1]}{127.0.0.1:51906}
+2017-12-29 00:17:20,227 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @10967935ms
+2017-12-29 11:11:28,252 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2017-12-29 11:11:28,253 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2017-12-29 11:22:51,495 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2017-12-29 11:22:51,495 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2017-12-29 11:25:19,894 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2017-12-29 11:25:19,894 [Worker-66] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2017-12-29 15:09:55,237 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@38a350b{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-12-29 15:09:55,243 [Stop Help Server] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2017-12-29 15:09:55,269 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@3cbc45f5{/help,null,UNAVAILABLE}
+2017-12-31 13:14:06,257 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-03 00:53:38,369 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-03 00:54:10,160 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2018-01-03 00:54:10,163 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-01-03 09:45:33,594 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-03 17:48:42,119 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-03 17:51:52,128 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2018-01-03 17:51:52,130 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-01-04 12:57:46,506 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-04 12:57:47,236 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-01-04 12:59:49,789 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2018-01-04 12:59:49,796 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-01-04 13:25:10,504 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2018-01-04 13:25:10,506 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-01-05 12:29:13,113 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-05 19:11:36,173 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-08 16:59:29,832 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-16 15:22:02,753 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-16 16:36:41,002 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @4503580ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-01-16 16:36:41,150 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.7.v20170914
+2018-01-16 16:36:41,225 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-01-16 16:36:41,225 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-01-16 16:36:41,227 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2018-01-16 16:36:41,265 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@35428b25{/help,null,AVAILABLE}
+2018-01-16 16:36:41,286 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1864fcc9{HTTP/1.1,[http/1.1]}{127.0.0.1:50646}
+2018-01-16 16:36:41,286 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @4503865ms
+2018-01-16 16:59:57,178 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\dev_frank\com.frank.proto.tutorial
+2018-01-16 16:59:57,180 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean verify
+2018-01-17 23:01:08,523 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-23 22:48:15,474 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-23 22:48:15,872 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-01-23 22:50:22,709 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-01-23 22:50:23,294 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-03-28 12:54:12,838 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-03-28 12:54:14,246 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-03-30 22:03:15,079 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-03 10:29:52,362 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @304233472ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-03 10:29:52,546 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T22:27:37+01:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-04-03 10:29:52,576 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-04-03 10:29:52,576 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-04-03 10:29:52,578 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-04-03 10:29:52,618 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@18182c4c{/help,null,AVAILABLE}
+2018-04-03 10:29:52,654 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6d8cce45{HTTP/1.1,[http/1.1]}{127.0.0.1:61588}
+2018-04-03 10:29:52,654 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @304233764ms
+2018-04-03 22:53:05,418 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6d8cce45{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2018-04-03 22:53:05,424 [Stop Help Server] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2018-04-03 22:53:05,445 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@18182c4c{/help,null,UNAVAILABLE}
+2018-04-04 00:40:20,424 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-06 11:35:59,607 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @212323345ms to org.eclipse.jetty.util.log.Slf4jLog
+2018-04-06 11:36:01,620 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T22:27:37+01:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2018-04-06 11:36:01,651 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2018-04-06 11:36:01,651 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2018-04-06 11:36:01,651 [Start Help Server] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2018-04-06 11:36:01,682 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@16548f4d{/help,null,AVAILABLE}
+2018-04-06 11:36:01,736 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@22d1e45{HTTP/1.1,[http/1.1]}{127.0.0.1:53734}
+2018-04-06 11:36:01,736 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @212325476ms
+2018-12-11 15:49:18,691 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="resources/jackson-core-2.9.3.jar"/>
+	<classpathentry kind="lib" path="resources/jackson-dataformat-smile-2.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/oxygen-rcp/plugins/org.eclipse.jdt.junit_3.10.51.v20171107-1248.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

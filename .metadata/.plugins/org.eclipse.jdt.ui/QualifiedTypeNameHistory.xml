@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.Person.Builder"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.Person.PhoneNumber.Builder"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.Person"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.Person.PhoneNumber"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.Person.PhoneType"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.AddressBook.Builder"/>
+<fullyQualifiedTypeName name="com.frank.proto.example.AddressBookProtos.AddressBook"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.google.protobuf.Descriptors.FieldDescriptor"/>
+<fullyQualifiedTypeName name="com.frank.proto.wells.PSProVolumes.WellPathData"/>
+<fullyQualifiedTypeName name="com.frank.proto.wells.PSProVolumes.WellPathPosition"/>
+<fullyQualifiedTypeName name="com.frank.proto.pspro.ConfigPrestackPro.ConfigStruct.GeoModelStruct"/>
+<fullyQualifiedTypeName name="com.frank.proto.pspro.ConfigPrestackPro.GeoModelStruct.DataInlineLowXlineLowXY"/>
+<fullyQualifiedTypeName name="com.frank.proto.pspro.ConfigPrestackPro.GeoModelStruct.DataInlineLowXlineHigherXY"/>
+<fullyQualifiedTypeName name="com.frank.proto.pspro.ConfigPrestackPro.GeoModelStruct.DataInlineHigherXlineLowXY"/>
+<fullyQualifiedTypeName name="com.frank.proto.pspro.ConfigPrestackPro.ConfigStruct"/>
+<fullyQualifiedTypeName name="com.frank.proto.pspro.ConfigPrestackPro.GeoModelStruct"/>
+<fullyQualifiedTypeName name="com.googlecode.protobuf.format.XmlFormat"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.nio.charset.Charset"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.google.protobuf.Message.Builder"/>
+<fullyQualifiedTypeName name="com.google.protobuf.Message"/>
+<fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.PrototypeObject"/>
+</qualifiedTypeNameHistroy>

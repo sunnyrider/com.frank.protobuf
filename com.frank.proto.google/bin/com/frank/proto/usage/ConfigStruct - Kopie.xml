@@ -1,0 +1,45 @@
+<!DOCTYPE PreStackPro>
+<project_config_file version="5.0.4" psproVersion="4.11.17unstable"
+	createDatum="21.March.2017 09:56:45" backUpVersion="285">
+	<Config_Struct>
+		<VAR type="QString" name="prName">WellTie_ReferenceDev</VAR>
+		<VAR type="QString" name="userComments"></VAR>
+		<DisplayUnit unit="1" quantity="22" />
+		<DisplayUnit unit="6" quantity="38" />
+		<DisplayUnit unit="124" quantity="40" />
+		<Geo_Model_Struct>
+			<VAR type="int" name="corner3set">1</VAR>
+			<VAR type="int" name="n_inlines">0</VAR>
+			<VAR type="int" name="n_xlines">0</VAR>
+			<VAR type="double" name="d_between_inlines">1.2500000000000000e+01</VAR>
+			<VAR type="double" name="d_between_xlines">1.2500000000000000e+01</VAR>
+			<VAR type="int" name="one_inline_num">1002</VAR>
+			<VAR type="int" name="one_xline_num">1001</VAR>
+			<VAR type="double" name="x_one">3.4500000000000000e+05</VAR>
+			<VAR type="double" name="y_one">6.4250000000000000e+06</VAR>
+			<VAR type="double" name="angle_rot_deg">8.8208015441894531e+01</VAR>
+			<VAR type="int" name="xlinedir">0</VAR>
+			<VAR type="int" name="first_inline_num">1002</VAR>
+			<VAR type="int" name="first_xline_num">1001</VAR>
+			<ARRAY size="2" type="double*" name="inline_low_xline_low_xy">
+				<VAR>3.4500000000000000e+05</VAR>
+				<VAR>6.4250000000000000e+06</VAR>
+			</ARRAY>
+			<ARRAY size="2" type="double*" name="inline_low_xline_higher_xy">
+				<VAR>3.4617265625000000e+05</VAR>
+				<VAR>6.4624815000000000e+06</VAR>
+			</ARRAY>
+			<ARRAY size="2" type="double*" name="inline_higher_xline_low_xy">
+				<VAR>3.8248165625000000e+05</VAR>
+				<VAR>6.4238275000000000e+06</VAR>
+			</ARRAY>
+			<VAR type="int" name="mode">1</VAR>
+			<VAR type="int" name="is_2d_lines_project">0</VAR>
+			<VAR type="QString" name="CRS">PROJCS["ED50 / UTM zone
+				31N",GEOGCS["ED50",DATUM["D_European_1950",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",3],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]</VAR>
+			<VAR type="QString" name="MetricCRS">PROJCS["ED50 / UTM zone
+				31N",GEOGCS["ED50",DATUM["D_European_1950",SPHEROID["International_1924",6378388,297]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",3],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]</VAR>
+		</Geo_Model_Struct>
+	</Config_Struct>
+
+</project_config_file>

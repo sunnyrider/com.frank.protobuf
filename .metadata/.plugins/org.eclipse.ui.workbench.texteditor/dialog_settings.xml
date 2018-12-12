@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="void merge" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="void merge"/>
+			<item value="merge"/>
+			<item value="project_config_file"/>
+			<item value="ConfigStruct.xml"/>
+			<item value="com.pspro.config"/>
+			<item value="IntersectionsList"/>
+			<item value="sList"/>
+			<item value="WellHorizonIntersection"/>
+			<item value="getWellTopsList"/>
+			<item value="WellHorizonIntersections"/>
+			<item value="welltopli"/>
+			<item value="WellHorizonIntersectionList"/>
+			<item value="ProtoBuf.PSProVolumes"/>
+			<item value="getemail"/>
+			<item value="email"/>
+		</list>
+		<list key="replacehistory">
+			<item value="com.frank.proto.pspro"/>
+			<item value="com.frank.proto.wells"/>
+			<item value="com.frank.proto.example"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1267" key="DIALOG_X_ORIGIN"/>
+		<item value="1183" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

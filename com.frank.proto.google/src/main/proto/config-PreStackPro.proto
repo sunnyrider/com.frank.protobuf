@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+// [START java_declaration]
+option java_package = "com.frank.proto.pspro";
+option java_outer_classname = "ConfigPrestackPro";
+// [END java_declaration]
+
+
+message GeoModelStruct {
+	int32 corner3set = 1;
+	int32 n_inlines = 2;
+	int32 n_xlines = 3;
+	double d_between_inlines = 4;
+	double d_between_xlines = 5;
+	int32 one_inline_num = 6;
+	int32 one_xline_num = 7;
+	double x_one = 8;
+	double y_one = 9;
+	double angle_rot_deg = 10;
+	int32 xlinedir = 11;
+	int32 first_inline_num = 12;
+	int32 first_xline_num = 13;
+	int32 mode = 14;
+	int32 is_2d_lines_project = 15;
+	string CRS = 16;
+	string MetricCRS = 17;
+
+	message DataInlineLowXlineLowXY {
+		double inline_low_xline_low_xy = 1;
+	}
+
+	message DataInlineLowXlineHigherXY {
+		double inline_low_xline_higher_xy = 1;
+	}
+
+	message DataInlineHigherXlineLowXY {
+		double inline_higher_xline_low_xy = 1;
+	}
+
+	repeated DataInlineLowXlineLowXY lowXlineLowXY = 18;
+	repeated DataInlineLowXlineHigherXY lowXlineHigherXY = 19;
+	repeated DataInlineHigherXlineLowXY higherXlineLowXY = 20;
+};
+
+message ConfigStruct {
+	string prName = 1;
+	string userComments = 2;
+
+	repeated GeoModelStruct geoModelStruct = 3;
+}

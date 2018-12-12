@@ -1,0 +1,1683 @@
+WellTop Name:: 'EKOFISK'
+    MD: 2861.8760288400003
+WellTop Name:: 'RODBY'
+    MD: 3823.1064
+WellTop Name:: 'BRITANNIA_SST'
+    MD: 3979.03119864
+WellTop Name:: 'Base_Britannia_Fm'
+    MD: 4088.3677287600003
+
+*****     *****     *****     *****
+
+WellPathPosition, Measured Depth: 0.0
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 0.0
+WellPathPosition, Measured Depth: 24.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 24.38
+WellPathPosition, Measured Depth: 34.379999999999995
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 34.379999999999995
+WellPathPosition, Measured Depth: 44.379999999999995
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 44.379999999999995
+WellPathPosition, Measured Depth: 54.379999999999995
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 54.379999999999995
+WellPathPosition, Measured Depth: 64.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 64.38
+WellPathPosition, Measured Depth: 74.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 74.38
+WellPathPosition, Measured Depth: 84.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 84.38
+WellPathPosition, Measured Depth: 94.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 94.38
+WellPathPosition, Measured Depth: 104.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 104.38
+WellPathPosition, Measured Depth: 114.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 114.38
+WellPathPosition, Measured Depth: 124.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 124.38
+WellPathPosition, Measured Depth: 134.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 134.38
+WellPathPosition, Measured Depth: 144.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 144.38
+WellPathPosition, Measured Depth: 154.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 154.38
+WellPathPosition, Measured Depth: 164.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 164.38
+WellPathPosition, Measured Depth: 174.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 174.38
+WellPathPosition, Measured Depth: 184.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 184.38
+WellPathPosition, Measured Depth: 194.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 194.38
+WellPathPosition, Measured Depth: 204.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 204.38
+WellPathPosition, Measured Depth: 214.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 214.38
+WellPathPosition, Measured Depth: 224.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 224.38
+WellPathPosition, Measured Depth: 234.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 234.38
+WellPathPosition, Measured Depth: 244.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 244.38
+WellPathPosition, Measured Depth: 254.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 254.38
+WellPathPosition, Measured Depth: 264.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 264.38
+WellPathPosition, Measured Depth: 274.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 274.38
+WellPathPosition, Measured Depth: 284.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 284.38
+WellPathPosition, Measured Depth: 294.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 294.38
+WellPathPosition, Measured Depth: 304.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 304.38
+WellPathPosition, Measured Depth: 314.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 314.38
+WellPathPosition, Measured Depth: 324.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 324.38
+WellPathPosition, Measured Depth: 334.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 334.38
+WellPathPosition, Measured Depth: 344.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 344.38
+WellPathPosition, Measured Depth: 354.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 354.38
+WellPathPosition, Measured Depth: 364.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 364.38
+WellPathPosition, Measured Depth: 374.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 374.38
+WellPathPosition, Measured Depth: 384.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 384.38
+WellPathPosition, Measured Depth: 394.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 394.38
+WellPathPosition, Measured Depth: 404.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 404.38
+WellPathPosition, Measured Depth: 414.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 414.38
+WellPathPosition, Measured Depth: 424.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 424.38
+WellPathPosition, Measured Depth: 434.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 434.38
+WellPathPosition, Measured Depth: 444.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 444.38
+WellPathPosition, Measured Depth: 454.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 454.38
+WellPathPosition, Measured Depth: 464.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 464.38
+WellPathPosition, Measured Depth: 474.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 474.38
+WellPathPosition, Measured Depth: 484.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 484.38
+WellPathPosition, Measured Depth: 494.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 494.38
+WellPathPosition, Measured Depth: 504.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 504.38
+WellPathPosition, Measured Depth: 514.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 514.38
+WellPathPosition, Measured Depth: 524.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 524.38
+WellPathPosition, Measured Depth: 534.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 534.38
+WellPathPosition, Measured Depth: 544.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 544.38
+WellPathPosition, Measured Depth: 554.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 554.38
+WellPathPosition, Measured Depth: 564.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 564.38
+WellPathPosition, Measured Depth: 574.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 574.38
+WellPathPosition, Measured Depth: 584.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 584.38
+WellPathPosition, Measured Depth: 594.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 594.38
+WellPathPosition, Measured Depth: 604.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 604.38
+WellPathPosition, Measured Depth: 614.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 614.38
+WellPathPosition, Measured Depth: 624.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 624.38
+WellPathPosition, Measured Depth: 634.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 634.38
+WellPathPosition, Measured Depth: 644.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 644.38
+WellPathPosition, Measured Depth: 654.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 654.38
+WellPathPosition, Measured Depth: 664.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 664.38
+WellPathPosition, Measured Depth: 674.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 674.38
+WellPathPosition, Measured Depth: 684.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 684.38
+WellPathPosition, Measured Depth: 694.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 694.38
+WellPathPosition, Measured Depth: 704.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 704.38
+WellPathPosition, Measured Depth: 714.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 714.38
+WellPathPosition, Measured Depth: 724.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 724.38
+WellPathPosition, Measured Depth: 734.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 734.38
+WellPathPosition, Measured Depth: 744.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 744.38
+WellPathPosition, Measured Depth: 754.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 754.38
+WellPathPosition, Measured Depth: 764.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 764.38
+WellPathPosition, Measured Depth: 774.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 774.38
+WellPathPosition, Measured Depth: 784.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 784.38
+WellPathPosition, Measured Depth: 794.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 794.38
+WellPathPosition, Measured Depth: 804.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 804.38
+WellPathPosition, Measured Depth: 814.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 814.38
+WellPathPosition, Measured Depth: 824.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 824.38
+WellPathPosition, Measured Depth: 834.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 834.38
+WellPathPosition, Measured Depth: 844.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 844.38
+WellPathPosition, Measured Depth: 854.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 854.38
+WellPathPosition, Measured Depth: 864.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 864.38
+WellPathPosition, Measured Depth: 874.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 874.38
+WellPathPosition, Measured Depth: 884.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 884.38
+WellPathPosition, Measured Depth: 894.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 894.38
+WellPathPosition, Measured Depth: 904.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 904.38
+WellPathPosition, Measured Depth: 914.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 914.38
+WellPathPosition, Measured Depth: 924.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 924.38
+WellPathPosition, Measured Depth: 934.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 934.38
+WellPathPosition, Measured Depth: 944.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 944.38
+WellPathPosition, Measured Depth: 954.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 954.38
+WellPathPosition, Measured Depth: 964.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 964.38
+WellPathPosition, Measured Depth: 974.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 974.38
+WellPathPosition, Measured Depth: 984.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 984.38
+WellPathPosition, Measured Depth: 994.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 994.38
+WellPathPosition, Measured Depth: 1004.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1004.38
+WellPathPosition, Measured Depth: 1014.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1014.38
+WellPathPosition, Measured Depth: 1024.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1024.38
+WellPathPosition, Measured Depth: 1034.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1034.38
+WellPathPosition, Measured Depth: 1044.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1044.38
+WellPathPosition, Measured Depth: 1054.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1054.38
+WellPathPosition, Measured Depth: 1064.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1064.38
+WellPathPosition, Measured Depth: 1074.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1074.38
+WellPathPosition, Measured Depth: 1084.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1084.38
+WellPathPosition, Measured Depth: 1094.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1094.38
+WellPathPosition, Measured Depth: 1104.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1104.38
+WellPathPosition, Measured Depth: 1114.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1114.38
+WellPathPosition, Measured Depth: 1124.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1124.38
+WellPathPosition, Measured Depth: 1134.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1134.38
+WellPathPosition, Measured Depth: 1144.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1144.38
+WellPathPosition, Measured Depth: 1154.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1154.38
+WellPathPosition, Measured Depth: 1164.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1164.38
+WellPathPosition, Measured Depth: 1174.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1174.38
+WellPathPosition, Measured Depth: 1184.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1184.38
+WellPathPosition, Measured Depth: 1194.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1194.38
+WellPathPosition, Measured Depth: 1204.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1204.38
+WellPathPosition, Measured Depth: 1214.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1214.38
+WellPathPosition, Measured Depth: 1224.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1224.38
+WellPathPosition, Measured Depth: 1234.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1234.38
+WellPathPosition, Measured Depth: 1244.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1244.38
+WellPathPosition, Measured Depth: 1254.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1254.38
+WellPathPosition, Measured Depth: 1264.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1264.38
+WellPathPosition, Measured Depth: 1274.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1274.38
+WellPathPosition, Measured Depth: 1284.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1284.38
+WellPathPosition, Measured Depth: 1294.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1294.38
+WellPathPosition, Measured Depth: 1304.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1304.38
+WellPathPosition, Measured Depth: 1314.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1314.38
+WellPathPosition, Measured Depth: 1324.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1324.38
+WellPathPosition, Measured Depth: 1334.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1334.38
+WellPathPosition, Measured Depth: 1344.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1344.38
+WellPathPosition, Measured Depth: 1354.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1354.38
+WellPathPosition, Measured Depth: 1364.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1364.38
+WellPathPosition, Measured Depth: 1374.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1374.38
+WellPathPosition, Measured Depth: 1384.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1384.38
+WellPathPosition, Measured Depth: 1394.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1394.38
+WellPathPosition, Measured Depth: 1404.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1404.38
+WellPathPosition, Measured Depth: 1414.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1414.38
+WellPathPosition, Measured Depth: 1424.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1424.38
+WellPathPosition, Measured Depth: 1434.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1434.38
+WellPathPosition, Measured Depth: 1444.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1444.38
+WellPathPosition, Measured Depth: 1454.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1454.38
+WellPathPosition, Measured Depth: 1464.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1464.38
+WellPathPosition, Measured Depth: 1474.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1474.38
+WellPathPosition, Measured Depth: 1484.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1484.38
+WellPathPosition, Measured Depth: 1494.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1494.38
+WellPathPosition, Measured Depth: 1504.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1504.38
+WellPathPosition, Measured Depth: 1514.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1514.38
+WellPathPosition, Measured Depth: 1524.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1524.38
+WellPathPosition, Measured Depth: 1534.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1534.38
+WellPathPosition, Measured Depth: 1544.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1544.38
+WellPathPosition, Measured Depth: 1554.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1554.38
+WellPathPosition, Measured Depth: 1564.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1564.38
+WellPathPosition, Measured Depth: 1574.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1574.38
+WellPathPosition, Measured Depth: 1584.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1584.38
+WellPathPosition, Measured Depth: 1594.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1594.38
+WellPathPosition, Measured Depth: 1604.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1604.38
+WellPathPosition, Measured Depth: 1614.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1614.38
+WellPathPosition, Measured Depth: 1624.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1624.38
+WellPathPosition, Measured Depth: 1634.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1634.38
+WellPathPosition, Measured Depth: 1644.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1644.38
+WellPathPosition, Measured Depth: 1654.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1654.38
+WellPathPosition, Measured Depth: 1664.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1664.38
+WellPathPosition, Measured Depth: 1674.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1674.38
+WellPathPosition, Measured Depth: 1684.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1684.38
+WellPathPosition, Measured Depth: 1694.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1694.38
+WellPathPosition, Measured Depth: 1704.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1704.38
+WellPathPosition, Measured Depth: 1714.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1714.38
+WellPathPosition, Measured Depth: 1724.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1724.38
+WellPathPosition, Measured Depth: 1734.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1734.38
+WellPathPosition, Measured Depth: 1744.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1744.38
+WellPathPosition, Measured Depth: 1754.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1754.38
+WellPathPosition, Measured Depth: 1764.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1764.38
+WellPathPosition, Measured Depth: 1774.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1774.38
+WellPathPosition, Measured Depth: 1784.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1784.38
+WellPathPosition, Measured Depth: 1794.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1794.38
+WellPathPosition, Measured Depth: 1804.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1804.38
+WellPathPosition, Measured Depth: 1814.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1814.38
+WellPathPosition, Measured Depth: 1824.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1824.38
+WellPathPosition, Measured Depth: 1834.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1834.38
+WellPathPosition, Measured Depth: 1844.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1844.38
+WellPathPosition, Measured Depth: 1854.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1854.38
+WellPathPosition, Measured Depth: 1864.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1864.38
+WellPathPosition, Measured Depth: 1874.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1874.38
+WellPathPosition, Measured Depth: 1884.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1884.38
+WellPathPosition, Measured Depth: 1894.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1894.38
+WellPathPosition, Measured Depth: 1904.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1904.38
+WellPathPosition, Measured Depth: 1914.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1914.38
+WellPathPosition, Measured Depth: 1924.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1924.38
+WellPathPosition, Measured Depth: 1934.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1934.38
+WellPathPosition, Measured Depth: 1944.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1944.38
+WellPathPosition, Measured Depth: 1954.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1954.38
+WellPathPosition, Measured Depth: 1964.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1964.38
+WellPathPosition, Measured Depth: 1974.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1974.38
+WellPathPosition, Measured Depth: 1984.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1984.38
+WellPathPosition, Measured Depth: 1994.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 1994.38
+WellPathPosition, Measured Depth: 2004.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2004.38
+WellPathPosition, Measured Depth: 2014.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2014.38
+WellPathPosition, Measured Depth: 2024.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2024.38
+WellPathPosition, Measured Depth: 2034.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2034.38
+WellPathPosition, Measured Depth: 2044.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2044.38
+WellPathPosition, Measured Depth: 2054.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2054.38
+WellPathPosition, Measured Depth: 2064.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2064.38
+WellPathPosition, Measured Depth: 2074.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2074.38
+WellPathPosition, Measured Depth: 2084.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2084.38
+WellPathPosition, Measured Depth: 2094.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2094.38
+WellPathPosition, Measured Depth: 2104.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2104.38
+WellPathPosition, Measured Depth: 2114.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2114.38
+WellPathPosition, Measured Depth: 2124.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2124.38
+WellPathPosition, Measured Depth: 2134.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2134.38
+WellPathPosition, Measured Depth: 2144.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2144.38
+WellPathPosition, Measured Depth: 2154.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2154.38
+WellPathPosition, Measured Depth: 2164.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2164.38
+WellPathPosition, Measured Depth: 2174.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2174.38
+WellPathPosition, Measured Depth: 2184.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2184.38
+WellPathPosition, Measured Depth: 2194.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2194.38
+WellPathPosition, Measured Depth: 2204.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2204.38
+WellPathPosition, Measured Depth: 2214.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2214.38
+WellPathPosition, Measured Depth: 2224.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2224.38
+WellPathPosition, Measured Depth: 2234.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2234.38
+WellPathPosition, Measured Depth: 2244.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2244.38
+WellPathPosition, Measured Depth: 2254.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2254.38
+WellPathPosition, Measured Depth: 2264.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2264.38
+WellPathPosition, Measured Depth: 2274.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2274.38
+WellPathPosition, Measured Depth: 2284.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2284.38
+WellPathPosition, Measured Depth: 2294.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2294.38
+WellPathPosition, Measured Depth: 2304.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2304.38
+WellPathPosition, Measured Depth: 2314.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2314.38
+WellPathPosition, Measured Depth: 2324.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2324.38
+WellPathPosition, Measured Depth: 2334.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2334.38
+WellPathPosition, Measured Depth: 2344.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2344.38
+WellPathPosition, Measured Depth: 2354.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2354.38
+WellPathPosition, Measured Depth: 2364.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2364.38
+WellPathPosition, Measured Depth: 2374.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2374.38
+WellPathPosition, Measured Depth: 2384.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2384.38
+WellPathPosition, Measured Depth: 2394.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2394.38
+WellPathPosition, Measured Depth: 2404.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2404.38
+WellPathPosition, Measured Depth: 2414.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2414.38
+WellPathPosition, Measured Depth: 2424.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2424.38
+WellPathPosition, Measured Depth: 2434.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2434.38
+WellPathPosition, Measured Depth: 2444.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2444.38
+WellPathPosition, Measured Depth: 2454.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2454.38
+WellPathPosition, Measured Depth: 2464.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2464.38
+WellPathPosition, Measured Depth: 2474.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2474.38
+WellPathPosition, Measured Depth: 2484.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2484.38
+WellPathPosition, Measured Depth: 2494.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2494.38
+WellPathPosition, Measured Depth: 2504.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2504.38
+WellPathPosition, Measured Depth: 2514.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2514.38
+WellPathPosition, Measured Depth: 2524.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2524.38
+WellPathPosition, Measured Depth: 2534.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2534.38
+WellPathPosition, Measured Depth: 2544.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2544.38
+WellPathPosition, Measured Depth: 2554.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2554.38
+WellPathPosition, Measured Depth: 2564.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2564.38
+WellPathPosition, Measured Depth: 2574.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2574.38
+WellPathPosition, Measured Depth: 2584.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2584.38
+WellPathPosition, Measured Depth: 2594.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2594.38
+WellPathPosition, Measured Depth: 2604.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2604.38
+WellPathPosition, Measured Depth: 2614.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2614.38
+WellPathPosition, Measured Depth: 2624.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2624.38
+WellPathPosition, Measured Depth: 2634.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2634.38
+WellPathPosition, Measured Depth: 2644.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2644.38
+WellPathPosition, Measured Depth: 2654.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2654.38
+WellPathPosition, Measured Depth: 2664.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2664.38
+WellPathPosition, Measured Depth: 2674.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2674.38
+WellPathPosition, Measured Depth: 2684.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2684.38
+WellPathPosition, Measured Depth: 2694.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2694.38
+WellPathPosition, Measured Depth: 2704.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2704.38
+WellPathPosition, Measured Depth: 2714.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2714.38
+WellPathPosition, Measured Depth: 2724.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2724.38
+WellPathPosition, Measured Depth: 2734.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2734.38
+WellPathPosition, Measured Depth: 2744.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2744.38
+WellPathPosition, Measured Depth: 2754.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2754.38
+WellPathPosition, Measured Depth: 2764.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2764.38
+WellPathPosition, Measured Depth: 2774.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2774.38
+WellPathPosition, Measured Depth: 2784.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2784.38
+WellPathPosition, Measured Depth: 2794.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2794.38
+WellPathPosition, Measured Depth: 2804.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2804.38
+WellPathPosition, Measured Depth: 2814.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2814.38
+WellPathPosition, Measured Depth: 2824.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2824.38
+WellPathPosition, Measured Depth: 2834.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2834.38
+WellPathPosition, Measured Depth: 2844.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2844.38
+WellPathPosition, Measured Depth: 2854.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2854.38
+WellPathPosition, Measured Depth: 2864.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2864.38
+WellPathPosition, Measured Depth: 2874.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2874.38
+WellPathPosition, Measured Depth: 2884.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2884.38
+WellPathPosition, Measured Depth: 2894.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2894.38
+WellPathPosition, Measured Depth: 2904.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2904.38
+WellPathPosition, Measured Depth: 2914.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2914.38
+WellPathPosition, Measured Depth: 2924.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2924.38
+WellPathPosition, Measured Depth: 2934.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2934.38
+WellPathPosition, Measured Depth: 2944.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2944.38
+WellPathPosition, Measured Depth: 2954.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2954.38
+WellPathPosition, Measured Depth: 2964.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2964.38
+WellPathPosition, Measured Depth: 2974.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2974.38
+WellPathPosition, Measured Depth: 2984.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2984.38
+WellPathPosition, Measured Depth: 2994.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 2994.38
+WellPathPosition, Measured Depth: 3004.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3004.38
+WellPathPosition, Measured Depth: 3014.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3014.38
+WellPathPosition, Measured Depth: 3024.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3024.38
+WellPathPosition, Measured Depth: 3034.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3034.38
+WellPathPosition, Measured Depth: 3044.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3044.38
+WellPathPosition, Measured Depth: 3054.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3054.38
+WellPathPosition, Measured Depth: 3064.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3064.38
+WellPathPosition, Measured Depth: 3074.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3074.38
+WellPathPosition, Measured Depth: 3084.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3084.38
+WellPathPosition, Measured Depth: 3094.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3094.38
+WellPathPosition, Measured Depth: 3104.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3104.38
+WellPathPosition, Measured Depth: 3114.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3114.38
+WellPathPosition, Measured Depth: 3124.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3124.38
+WellPathPosition, Measured Depth: 3134.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3134.38
+WellPathPosition, Measured Depth: 3144.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3144.38
+WellPathPosition, Measured Depth: 3154.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3154.38
+WellPathPosition, Measured Depth: 3164.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3164.38
+WellPathPosition, Measured Depth: 3174.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3174.38
+WellPathPosition, Measured Depth: 3184.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3184.38
+WellPathPosition, Measured Depth: 3194.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3194.38
+WellPathPosition, Measured Depth: 3204.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3204.38
+WellPathPosition, Measured Depth: 3214.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3214.38
+WellPathPosition, Measured Depth: 3224.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3224.38
+WellPathPosition, Measured Depth: 3234.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3234.38
+WellPathPosition, Measured Depth: 3244.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3244.38
+WellPathPosition, Measured Depth: 3254.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3254.38
+WellPathPosition, Measured Depth: 3264.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3264.38
+WellPathPosition, Measured Depth: 3274.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3274.38
+WellPathPosition, Measured Depth: 3284.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3284.38
+WellPathPosition, Measured Depth: 3294.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3294.38
+WellPathPosition, Measured Depth: 3304.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3304.38
+WellPathPosition, Measured Depth: 3314.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3314.38
+WellPathPosition, Measured Depth: 3324.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3324.38
+WellPathPosition, Measured Depth: 3334.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3334.38
+WellPathPosition, Measured Depth: 3344.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3344.38
+WellPathPosition, Measured Depth: 3354.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3354.38
+WellPathPosition, Measured Depth: 3364.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3364.38
+WellPathPosition, Measured Depth: 3374.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3374.38
+WellPathPosition, Measured Depth: 3384.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3384.38
+WellPathPosition, Measured Depth: 3394.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3394.38
+WellPathPosition, Measured Depth: 3404.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3404.38
+WellPathPosition, Measured Depth: 3414.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3414.38
+WellPathPosition, Measured Depth: 3424.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3424.38
+WellPathPosition, Measured Depth: 3434.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3434.38
+WellPathPosition, Measured Depth: 3444.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3444.38
+WellPathPosition, Measured Depth: 3454.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3454.38
+WellPathPosition, Measured Depth: 3464.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3464.38
+WellPathPosition, Measured Depth: 3474.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3474.38
+WellPathPosition, Measured Depth: 3484.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3484.38
+WellPathPosition, Measured Depth: 3494.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3494.38
+WellPathPosition, Measured Depth: 3504.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3504.38
+WellPathPosition, Measured Depth: 3514.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3514.38
+WellPathPosition, Measured Depth: 3524.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3524.38
+WellPathPosition, Measured Depth: 3534.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3534.38
+WellPathPosition, Measured Depth: 3544.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3544.38
+WellPathPosition, Measured Depth: 3554.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3554.38
+WellPathPosition, Measured Depth: 3564.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3564.38
+WellPathPosition, Measured Depth: 3574.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3574.38
+WellPathPosition, Measured Depth: 3584.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3584.38
+WellPathPosition, Measured Depth: 3594.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3594.38
+WellPathPosition, Measured Depth: 3604.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3604.38
+WellPathPosition, Measured Depth: 3614.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3614.38
+WellPathPosition, Measured Depth: 3624.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3624.38
+WellPathPosition, Measured Depth: 3634.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3634.38
+WellPathPosition, Measured Depth: 3644.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3644.38
+WellPathPosition, Measured Depth: 3654.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3654.38
+WellPathPosition, Measured Depth: 3664.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3664.38
+WellPathPosition, Measured Depth: 3674.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3674.38
+WellPathPosition, Measured Depth: 3684.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3684.38
+WellPathPosition, Measured Depth: 3694.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3694.38
+WellPathPosition, Measured Depth: 3704.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3704.38
+WellPathPosition, Measured Depth: 3714.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3714.38
+WellPathPosition, Measured Depth: 3724.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3724.38
+WellPathPosition, Measured Depth: 3734.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3734.38
+WellPathPosition, Measured Depth: 3744.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3744.38
+WellPathPosition, Measured Depth: 3754.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3754.38
+WellPathPosition, Measured Depth: 3764.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3764.38
+WellPathPosition, Measured Depth: 3774.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3774.38
+WellPathPosition, Measured Depth: 3784.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3784.38
+WellPathPosition, Measured Depth: 3794.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3794.38
+WellPathPosition, Measured Depth: 3804.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3804.38
+WellPathPosition, Measured Depth: 3814.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3814.38
+WellPathPosition, Measured Depth: 3824.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3824.38
+WellPathPosition, Measured Depth: 3834.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3834.38
+WellPathPosition, Measured Depth: 3844.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3844.38
+WellPathPosition, Measured Depth: 3854.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3854.38
+WellPathPosition, Measured Depth: 3864.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3864.38
+WellPathPosition, Measured Depth: 3874.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3874.38
+WellPathPosition, Measured Depth: 3884.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3884.38
+WellPathPosition, Measured Depth: 3894.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3894.38
+WellPathPosition, Measured Depth: 3904.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3904.38
+WellPathPosition, Measured Depth: 3914.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3914.38
+WellPathPosition, Measured Depth: 3924.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3924.38
+WellPathPosition, Measured Depth: 3934.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3934.38
+WellPathPosition, Measured Depth: 3944.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3944.38
+WellPathPosition, Measured Depth: 3954.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3954.38
+WellPathPosition, Measured Depth: 3964.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3964.38
+WellPathPosition, Measured Depth: 3974.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3974.38
+WellPathPosition, Measured Depth: 3984.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3984.38
+WellPathPosition, Measured Depth: 3994.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 3994.38
+WellPathPosition, Measured Depth: 4004.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4004.38
+WellPathPosition, Measured Depth: 4014.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4014.38
+WellPathPosition, Measured Depth: 4024.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4024.38
+WellPathPosition, Measured Depth: 4034.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4034.38
+WellPathPosition, Measured Depth: 4044.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4044.38
+WellPathPosition, Measured Depth: 4054.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4054.38
+WellPathPosition, Measured Depth: 4064.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4064.38
+WellPathPosition, Measured Depth: 4074.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4074.38
+WellPathPosition, Measured Depth: 4084.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4084.38
+WellPathPosition, Measured Depth: 4094.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4094.38
+WellPathPosition, Measured Depth: 4104.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4104.38
+WellPathPosition, Measured Depth: 4114.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4114.38
+WellPathPosition, Measured Depth: 4124.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4124.38
+WellPathPosition, Measured Depth: 4134.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4134.38
+WellPathPosition, Measured Depth: 4144.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4144.38
+WellPathPosition, Measured Depth: 4154.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4154.38
+WellPathPosition, Measured Depth: 4164.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4164.38
+WellPathPosition, Measured Depth: 4174.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4174.38
+WellPathPosition, Measured Depth: 4180.38
+    Inline Pos: 3179.3757377849947
+    Xline Pos: 2156.8939423543575
+    True Vert. Depth: 4180.38

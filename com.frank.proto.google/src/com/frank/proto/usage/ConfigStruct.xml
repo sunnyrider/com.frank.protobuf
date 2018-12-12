@@ -1,0 +1,43 @@
+<Geo_Model_Struct>
+	<VAR type="int" name="corner3Set">11</VAR>
+	<VAR type="int" name="n_inlines">22356</VAR>
+	<VAR type="int" name="n_xlines">-54321</VAR>
+	<VAR type="double" name="d_between_inlines">257650.0</VAR>
+	<VAR type="double" name="d_between_xlines">2.50045768E9</VAR>
+	<VAR type="int" name="one_inline_num">542</VAR>
+	<VAR type="int" name="one_xline_num">996</VAR>
+	<VAR type="double" name="x_one">0.0</VAR>
+	<VAR type="double" name="y_one">2340.0</VAR>
+	<VAR type="double" name="angle_rot_deg">12430.0</VAR>
+	<VAR type="int" name="xlinedir">78666</VAR>
+	<VAR type="int" name="first_inline_num">98765</VAR>
+	<VAR type="int" name="first_xline_num">88888</VAR>
+	<ARRAY size="2" type="double*" name="inline_low_xline_low_xy">
+		<VAR>421574.5</VAR>
+		<VAR>7240630.5</VAR>
+	</ARRAY>
+	<ARRAY size="2" type="double*" name="inline_low_xline_higher_xy">
+		<VAR>466666.6</VAR>
+		<VAR>455555.5</VAR>
+	</ARRAY>
+	<ARRAY size="2" type="double*" name="inline_low_xline_low_xy">
+		<VAR>444444.4</VAR>
+		<VAR>433333.3</VAR>
+	</ARRAY>
+	<VAR type="int" name="mode">2</VAR>
+	<VAR type="int" name="is_2d_lines_project">0</VAR>
+	<VAR type="QString" name="CRS">PROJCS["UTM Zone 32, Northern
+		Hemisphere",GEOGCS["International 1909 (Hayford)", DATUM["unknown",
+		SPHEROID["intl",6378388,297]], PRIMEM["Greenwich",0],
+		UNIT["degree",0.0174532925199433]], PROJECTION["Transverse_Mercator"],
+		PARAMETER["latitude_of_origin",0], PARAMETER["central_meridian",9],
+		PARAMETER["scale_factor",0.9996], PARAMETER["false_easting",500000],
+		PARAMETER["false_northing",0], UNIT["Meter",1]]</VAR>
+	<VAR type="QString" name="MetricCRS">PROJCS["UTM Zone 32, Northern
+		Hemisphere",GEOGCS["International 1909 (Hayford)", DATUM["unknown",
+		SPHEROID["intl",6378388,297]], PRIMEM["Greenwich",0],
+		UNIT["degree",0.0174532925199433]], PROJECTION["Transverse_Mercator"],
+		PARAMETER["latitude_of_origin",0], PARAMETER["central_meridian",9],
+		PARAMETER["scale_factor",0.9996], PARAMETER["false_easting",500000],
+		PARAMETER["false_northing",0], UNIT["Meter",1]]</VAR>
+</Geo_Model_Struct>

@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+// Kommentar
+
+package ProtoBuf.PSProVolumes;
+
+message WellPathPosition
+{
+  double measured_depth = 1;
+  double inline_pos = 2;
+  double xline_pos = 3;
+  double true_vertical_depth = 4;
+};
+
+message WellTop
+{
+  string name = 1;
+  double md = 2;
+}
+
+message WellHorizonIntersection
+{
+  int32 horizon_bfid = 1;
+  WellPathPosition intersect_position = 2;
+};
+
+message WellPathData
+{
+  repeated WellPathPosition well_path = 1;
+  repeated WellTop well_tops = 2;
+  repeated WellHorizonIntersection horizon_intersections = 3;
+};
+
